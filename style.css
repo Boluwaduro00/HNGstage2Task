@@ -7,7 +7,6 @@
 }
 
 body {
-    background: blue;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
 }
@@ -33,9 +32,10 @@ body {
     padding: 0 25px;
 }
 
-.profile-img {
-    width: 50%;
+.profile-img img {
+    width: 30%;
     float: right;
+    border-radius: 48%;
 }
 .icon img {
     height: 15px; 
